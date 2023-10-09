@@ -42,8 +42,10 @@
 4. Menu Admin
     - Jika pengguna berhasil login sebagai Admin, mereka akan melihat menu Admin yang memungkinkan mereka untuk mengelola barang di toko.
     - Menu ini termasuk Tambah Barang, Lihat Barang, Hapus Barang, Update Barang, dan Logout.
-      
 ![alt text](https://github.com/Shfwwanf/MShofwanF_Postest2/blob/main/Postest2/3%20menu%20admin.jpg?raw=true)
+
+
+
 
 
 5. Menu Pembeli
