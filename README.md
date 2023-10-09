@@ -46,6 +46,8 @@
 ![alt text](https://github.com/Shfwwanf/MShofwanF_Postest2/blob/main/Postest2/3%20menu%20admin.jpg?raw=true)
 
 
+
+
 5. Menu Pembeli
     - Jika pengguna berhasil login sebagai Pembeli, mereka akan melihat menu Pembeli yang memungkinkan mereka untuk melihat barang yang tersedia dan melakukan pembelian.
     - Menu ini termasuk Beli Barang dan Logout.
