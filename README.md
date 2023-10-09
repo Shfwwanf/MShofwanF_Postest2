@@ -48,13 +48,13 @@
     - Opsi "Lihat Barang" memungkinkan baik Admin maupun Pembeli untuk melihat daftar barang yang tersedia.
     - Data barang, termasuk nomor barang, nama, harga, dan stoknya, akan ditampilkan dalam format yang rapi.
 
-7. Mengupdate Barang (Admin)
-    - Jika Admin memilih opsi "Update Barang," mereka akan diminta untuk memilih nomor barang yang ingin diperbarui dan memasukkan informasi baru (nama, harga, dan stok) untuk barang           tersebut.
-    - Barang akan diperbarui dan pesan konfirmasi akan ditampilkan.
-
-8. Menghapus Barang (Admin)
+7. Menghapus Barang (Admin)
     - Jika Admin memilih opsi "Hapus Barang," mereka akan diminta untuk memilih nomor barang yang ingin dihapus.
     - Barang akan dihapus dari daftar dan pesan konfirmasi akan ditampilkan.
+      
+8. Mengupdate Barang (Admin)
+    - Jika Admin memilih opsi "Update Barang," mereka akan diminta untuk memilih nomor barang yang ingin diperbarui dan memasukkan informasi baru (nama, harga, dan stok) untuk barang           tersebut.
+    - Barang akan diperbarui dan pesan konfirmasi akan ditampilkan.
   
 9. Membeli Barang (Pembeli)
     - Jika Pembeli memilih opsi "Beli Barang," mereka akan diminta untuk memilih nomor barang yang ingin dibeli dan jumlahnya.
