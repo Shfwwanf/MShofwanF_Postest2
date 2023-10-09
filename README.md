@@ -43,7 +43,6 @@
 5. Menambah Barang (Admin)
     - Jika Admin memilih opsi "Tambah Barang," mereka akan diminta untuk memasukkan nama barang, harga, dan stoknya.
     - Barang baru akan ditambahkan ke daftar barang dan pesan konfirmasi akan ditampilkan.
-    - 
 
 6. Melihat Barang (Admin dan Pembeli)
     - Opsi "Lihat Barang" memungkinkan baik Admin maupun Pembeli untuk melihat daftar barang yang tersedia.
