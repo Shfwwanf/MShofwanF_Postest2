@@ -47,26 +47,22 @@
 6. Melihat Barang (Admin dan Pembeli)
     - Opsi "Lihat Barang" memungkinkan baik Admin maupun Pembeli untuk melihat daftar barang yang tersedia.
     - Data barang, termasuk nomor barang, nama, harga, dan stoknya, akan ditampilkan dalam format yang rapi.
-  
-7. Menghapus Barang (Admin)
-    - Jika Admin memilih opsi "Hapus Barang," mereka akan diminta untuk memilih nomor barang yang ingin dihapus.
-    - Barang akan dihapus dari daftar dan pesan konfirmasi akan ditampilkan.
 
-8. Mengupdate Barang (Admin)
+7. Mengupdate Barang (Admin)
     - Jika Admin memilih opsi "Update Barang," mereka akan diminta untuk memilih nomor barang yang ingin diperbarui dan memasukkan informasi baru (nama, harga, dan stok) untuk barang           tersebut.
     - Barang akan diperbarui dan pesan konfirmasi akan ditampilkan.
 
-9. Menghapus Barang (Admin)
+8. Menghapus Barang (Admin)
     - Jika Admin memilih opsi "Hapus Barang," mereka akan diminta untuk memilih nomor barang yang ingin dihapus.
     - Barang akan dihapus dari daftar dan pesan konfirmasi akan ditampilkan.
   
-10. Membeli Barang (Pembeli)
+9. Membeli Barang (Pembeli)
     - Jika Pembeli memilih opsi "Beli Barang," mereka akan diminta untuk memilih nomor barang yang ingin dibeli dan jumlahnya.
     - Pembeli juga akan diminta untuk memasukkan informasi pribadi (nama, nomor telepon, alamat, dan metode pembayaran).
     - Transaksi akan dicatat dan total harga akan ditampilkan, serta pesan konfirmasi pembelian.
 
-11. Logout
+10. Logout
     - Pengguna dapat keluar dari akun mereka dengan memilih opsi "Logout."
    
-12. Keluar dari Program
+11. Keluar dari Program
     - Pengguna dapat keluar dari program dengan memilih opsi "Keluar" dari menu awal.
