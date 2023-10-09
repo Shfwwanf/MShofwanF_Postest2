@@ -12,8 +12,8 @@
 
 ## Screenshoot Program pada Vscode
 
-![alt text]([https://github.com/Shfwwanf/MShofwanF_Postest1/blob/main/Picture/Screenshot%20(165).png](https://github.com/Shfwwanf/MShofwanF_Postest2/blob/main/Postest2/code.png)?raw=true)
-
+![alt text](https://github.com/Shfwwanf/MShofwanF_Postest2/blob/main/Postest2/code.png?raw=true)
+![alt text](?raw=true)
 
 
 ## Penjelasan Outputnya  
