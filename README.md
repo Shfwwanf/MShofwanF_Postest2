@@ -25,7 +25,7 @@
     - Pengguna diminta untuk memasukkan username dan password sesuai dengan peran yang mereka pilih.
     - Jika username dan password yang dimasukkan cocok dengan data Admin, program akan mengizinkan akses Admin dan menampilkan pesan selamat datang sebagai Admin.
     - Jika username yang dimasukkan adalah username Admin tetapi password salah, program akan memberikan pesan kesalahan.
-    - Jika username yang dimasukkan adalah username Pembeli atau tidak ada cocok dengan data Admin, program akan mengizinkan akses Pembeli dan menampilkan pesan selamat datang dengan           nama Pembeli.
+    - Jika username yang dimasukkan adalah username Pembeli atau tidak ada cocok dengan data Admin, program akan mengizinkan akses Pembeli dan menampilkan pesan selamat datang dengan nama Pembeli.
 
    (Login sebagai Admin):
    
@@ -53,7 +53,7 @@
     - Barang akan dihapus dari daftar dan pesan konfirmasi akan ditampilkan.
       
 8. Mengupdate Barang (Admin)
-    - Jika Admin memilih opsi "Update Barang," mereka akan diminta untuk memilih nomor barang yang ingin diperbarui dan memasukkan informasi baru (nama, harga, dan stok) untuk barang           tersebut.
+    - Jika Admin memilih opsi "Update Barang," mereka akan diminta untuk memilih nomor barang yang ingin diperbarui dan memasukkan informasi baru (nama, harga, dan stok) untuk barang tersebut.
     - Barang akan diperbarui dan pesan konfirmasi akan ditampilkan.
   
 9. Membeli Barang (Pembeli)
