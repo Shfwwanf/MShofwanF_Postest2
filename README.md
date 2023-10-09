@@ -1,8 +1,8 @@
 # POSTEST 2 Program sebuah Toko
 
 
-### Nama : Muhammad Shofwan Fikriyannur
-### Nim  : 2309116062
+### Nama     : Muhammad Shofwan Fikriyannur
+### Nim      : 2309116062
 
 
 ## Flowchart
