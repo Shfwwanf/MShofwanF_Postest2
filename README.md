@@ -7,6 +7,7 @@
 
 ## Flowchart
 
+![alt text](https://github.com/Shfwwanf/MShofwanF_Postest2/blob/main/Postest2/tokohotwheels.drawio.png?raw=true)
 
 
 
